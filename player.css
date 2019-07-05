@@ -1,0 +1,26 @@
+.button {
+    margin: auto; 
+    padding-left:120px;
+}
+.progress {
+  /* margin: auto; */
+  width:640px;
+  height:16px;
+  margin-bottom: 5px;
+  background-color: white;
+}
+#play-list {
+  width: 200px;
+  margin: auto;
+  color-adjust:  true;
+}
+#play-list  h2 { font-size:12px; }
+#play-list {
+   padding:0;
+   font-size:12px;
+   list-style-type:none;
+}
+#play-list li {
+   cursor:pointer;
+   padding-left:15px;
+}
