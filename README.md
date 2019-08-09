@@ -1,14 +1,21 @@
 ### Setup
+  
+## Tech stacks
+
+1. react
+2. element-ui
+3. axios
+
+## Setup
 
 ```sh
-git clone https://github.com/talkhu/FSD.git
-
+https://github.com/talkhu/FSD.git
 cd FSD
-npm install -g json-server
-json-server --watch json-server/db.json
+json-server -p 3001 -w json-server/db.json
 
-cd angular-videos-player
-npm i
-ng serve # allow localhost only
-ng serve --host 0.0.0.0  # via mobile browser
+cd reactJS/player-react
+npm start
+
 ```
+
+open http://localhost:3000
