@@ -1,0 +1,16 @@
+*:focus {
+  outline: 0;
+}
+
+.table td,
+.table th {
+  vertical-align: middle;
+}
+
+.url {
+  word-break: break-word;
+}
+
+form label {
+  max-width: 120px;
+}
