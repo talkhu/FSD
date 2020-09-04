@@ -12,7 +12,7 @@
     "bootstrap": "^4.3.1",
     "element-react": "^1.4.34",
     "element-theme-default": "^1.4.13",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "react": "^16.8.6",
     "react-bootstrap": "^1.0.0-beta.9",
     "react-dom": "^16.8.6",
